@@ -5,12 +5,10 @@ class Solution:
         hash_table = {}
 
         for i in range(n):
-            hash_table[nums[i]] = i
-
-        for i in range(n):
             complement = target - nums[i]
-            if complement in hash_table and hash_table[complement] != i:
-                return [i, hash_table[complement]]
+            if complement in hash_table:
+                return [hash_table[complement], i]
+            hash_table[nums[i]] = i
         
         return []
         
