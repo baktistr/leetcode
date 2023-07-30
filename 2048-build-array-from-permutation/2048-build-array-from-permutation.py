@@ -14,14 +14,23 @@ class Solution:
         # b = meta / cons_val --> b = nums[nums[i]] % cons_val
 
         # fill the meta value
-        cons_val = 1001
-        for i in range(len(nums)):
-            # a = nums[i]
-            b = nums[nums[i]]%cons_val
-            nums[i] = nums[i] + b*cons_val
+        # cons_val = 1001
+        # for i in range(len(nums)):
+        #     # a = nums[i]
+        #     b = nums[nums[i]]%cons_val
+        #     nums[i] = nums[i] + b*cons_val
 
-        # retrive the real value
-        for i in range(len(nums)):
-            nums[i] = nums[i]//cons_val
+        # # retrive the real value
+        # for i in range(len(nums)):
+        #     nums[i] = nums[i]//cons_val
+
+        # return nums
+
+        n = len(nums)
+        for i in range(n):
+            nums[i] = nums[i] + n * (nums[nums[i]] % n)
+
+        for i in range(n):
+            nums[i] = nums[i] // n
 
         return nums
