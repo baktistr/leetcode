@@ -1,7 +1,7 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
 
-        m = {
+        mapping = {
             'I': 1,
             'V': 5,
             'X': 10,
@@ -12,11 +12,11 @@ class Solution:
         }
         
         answer = 0
-        
+        # i = 0
         for i in range(len(s)):
-            if i < len(s) - 1 and m[s[i]] < m[s[i+1]]:
-                answer -= m[s[i]]
+            if i < len(s)-1  and mapping[s[i]] < mapping[s[i+1]]:
+                answer -= mapping[s[i]]
             else:
-                answer += m[s[i]]
-        
+                answer += mapping[s[i]]
+                    
         return answer
