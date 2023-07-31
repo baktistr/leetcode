@@ -3,7 +3,7 @@ class Solution:
 
         nums.sort()
 
-        closest = 10000000
+        closest = 100000
 
         for i in range(len(nums)-2):
             left  = i+1
