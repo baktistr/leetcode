@@ -3,7 +3,7 @@ class Solution:
 
         result = []
 
-        # use greedy, iterate i, and use two pointer (left & right) for each possible triplet with i
+        # use bruteforce, iterate i, and use two pointer (left & right) for each possible triplet with i
         # sort the nums, so we can move the two pointers accordingly
         nums.sort()
 
