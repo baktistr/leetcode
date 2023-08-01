@@ -1,10 +1,16 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
 
-        for i, num in enumerate(nums):
-            print("ini num ",num)
-            print("ini i ",i)
-            if num >= target:
-                return i
+        ## binary search
 
-        return len(nums)
+        left = 0
+        right = len(nums)
+
+        while left < right:
+            mid = (right + left)//2
+            if target > nums[mid]:
+                left = mid+1
+            else:
+                right = mid
+
+        return left
