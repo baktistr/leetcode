@@ -12,6 +12,7 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 | ------- | ------- |
 | [0001-two-sum](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0027-remove-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0485-max-consecutive-ones/) | Easy |
 | [0682-baseball-game](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0682-baseball-game/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -38,4 +39,9 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
