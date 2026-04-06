@@ -10,5 +10,10 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0027-remove-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0485-max-consecutive-ones/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
