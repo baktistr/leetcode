@@ -22,4 +22,12 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/1929-concatenation-of-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
