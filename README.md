@@ -12,6 +12,7 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 | ------- | ------- |
 | [0027-remove-element](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0027-remove-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0485-max-consecutive-ones/) | Easy |
+| [0682-baseball-game](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0682-baseball-game/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1929-concatenation-of-array](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -21,6 +22,7 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/1929-concatenation-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -30,4 +32,5 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+| [0682-baseball-game](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
