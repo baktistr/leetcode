@@ -12,6 +12,7 @@ This is the repository of my personal attempt at the Leetcode challenge. Coded M
 | ------- | ------- |
 | [0027-remove-element](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0027-remove-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/0485-max-consecutive-ones/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/baktistr/leetcode/tree/main/Python3/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
